@@ -14,4 +14,4 @@ Detection of the initial state of the cube: [link](https://drive.google.com/open
 Resolution of the cube: [link](https://drive.google.com/open?id=1Y2CeLeY_GvcWj7iVw1RWPZ43Bs8QUNP5)
 
 ## Poster
-More information are available in the poster I made for this project: [link](poster/final version.pdf)
+More information are available in the poster I made for this project: [link](poster/final_version.pdf)
